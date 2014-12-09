@@ -1,0 +1,2 @@
+C:\Users\maxidiv\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\Interop.e3.dll
+C:\Users\maxidiv\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache

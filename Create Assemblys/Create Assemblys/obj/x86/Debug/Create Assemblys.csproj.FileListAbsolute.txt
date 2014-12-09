@@ -1,0 +1,13 @@
+C:\Users\maxidiv\documents\visual studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\Interop.e3.dll
+C:\Users\maxidiv\documents\visual studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.csproj.ResolveComReference.cache
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\bin\Debug\Create Assemblys.exe
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\bin\Debug\Create Assemblys.pdb
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\CreateAssemblys.Properties.Resources.resources
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.csproj.GenerateResource.Cache
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.exe
+C:\Users\maxidiv\Documents\Visual Studio 2010\Projects\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.pdb
+D:\коддинг\Create-Assemblys\Create Assemblys\Create Assemblys\obj\x86\Debug\Interop.e3.dll
+D:\коддинг\Create-Assemblys\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.csproj.ResolveComReference.cache
+D:\коддинг\Create-Assemblys\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.exe
+D:\коддинг\Create-Assemblys\Create Assemblys\Create Assemblys\obj\x86\Debug\Create Assemblys.pdb
