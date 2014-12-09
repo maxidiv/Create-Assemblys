@@ -68,7 +68,7 @@ namespace WindowsFormsApplication1
         e3Text txt;
         e3Job CreateJobObject()
         {
-            // возвращаемое функцией значение
+            // возвращаемое функцией значение бла бла бла бла 
             e3Job ret = null;
             try
             {
